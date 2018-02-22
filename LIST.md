@@ -6,6 +6,8 @@
 
 # Архив
 
+* [(Dota 2) ELO HELL или как я поднимал себе рейтинг](archive/dota2-elo-hell.md)
+
 ## Переводы
 
 * [(2016) В поисках Евы](archive/translations/2016-searching-for-eve.md)
