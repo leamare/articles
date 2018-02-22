@@ -1,4 +1,7 @@
 Published:
+* [VK longread](vk.com/@spectraldota-taimingi-predmetov-v-dota-2) + [Appendix](https://vk.com/@spectraldota-dota-2-item-timings-prilozhenie)
+* [VK Post](https://vk.com/wall-111585510_1811)
+* [Telegram Post](https://t.me/spectraldota/787)
 
 ---
 
