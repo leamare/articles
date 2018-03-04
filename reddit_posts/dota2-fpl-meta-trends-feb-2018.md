@@ -10,6 +10,8 @@ Positions data may be inaccurate in some way (mostly so that very bad core games
 
 Thanks to FaceIT guys, it's now possible to fetch match IDs from Dota 2 API, so I didn't need to manually find every single match like I did before. Altho, matches from the first two weeks didn't have the right league ID and some matches (around 10-15) weren't available in FaceIT web interface, so I couldn't find them.
 
+Edit: Holy shtuff, front page and 90 upvotes in less than two hours! Thank you guys!
+
 ---
 
 [Full report](http://spectralalliance.ru/reports/?league=fpl_feb_2018)
@@ -25,17 +27,18 @@ Thanks to FaceIT guys, it's now possible to fetch match IDs from Dota 2 API, so 
 
 * **Day with most matches played:** 24th of February (30 matches)
 * **Heroes Contested:** 108 (107 picked)
+* **Uncontested heroes:** Lich, Clinkz, Ember Spirit, Arc Warden (+ Pangolier, Dark Willow and Techies, but they weren't available in CM)
 
 ### Patches
 
-* **7.07d:** 1
-* **7.08:** 85
-* **7.09:** 185
+* **7.07d:** 1 match
+* **7.08:** 85 matches
+* **7.09:** 185 matches
 
 ### Regions
 
-* **US East (FPL NA):** 114
-* **EU West (FPL EU):** 157
+* **US East (FPL NA):** 114 matches
+* **EU West (FPL EU):** 157 matches
 
 # Players
 
@@ -100,11 +103,7 @@ There are also first stages of picks/bans and most picked/banned heroes in overv
 
 ## Favorite Pairs
 
-* **Tinker + Bounty Hunter:** 199 (51.76%)
-* **Shadow Fiend + Shadow Shaman:** 148 (50.00%)
-* **Shadow Fiend + Clockwerk:** 148 (47.97%)
-* **Shadow Fiend + Bounty Hunter:** 144 (46.53%)
-* **Shadow Fiend + Tusk:** 138 (50.72%)
+*Edit: I accidentally pasted here pairs from 7.09 thread, didn't notice that at first. Sorry.*
 
 * **Witch Doctor + Tusk:** 31 (64.52%)
 * **Sand King + Witch Doctor:** 28 (57.14%)
