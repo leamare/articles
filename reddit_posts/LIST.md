@@ -7,4 +7,5 @@
 * [Divine 5 Meta Trends - 7.12 edition](dota2-712-divine5-meta-trends.md)
 * [Divine 5 Meta Trends - 7.13(b) edition](dota2-713-divine5-meta-trends.md)
 * [Divine 5 Meta Trends - why there won't be a 7.14 post](dota2-714-no-divine5-meta-trends.md)
+* [Divine 5 Meta Trends - 7.15 edition](dota2-715-divine5-meta-trends.md)
 * [FaceIT Pro League Meta Trends - February 2018](dota2-fpl-meta-trends-feb-2018.md)
