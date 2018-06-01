@@ -1,6 +1,7 @@
 # Переводы
 
 * [STRATZ - Тайминги предметов в Dota 2](translations/dota-2-item-timings-stratz.md)
+* [Оффлейн в 7.07+ (для TheCyberSport)](translations\dota2-offlane-in-707.md)
 
 ---
 
