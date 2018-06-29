@@ -9,6 +9,7 @@
 * [Divine 5 Meta Trends - why there won't be a 7.14 post](dota2-714-no-divine5-meta-trends.md)
 * [Divine 5 Meta Trends - 7.15 edition](dota2-715-divine5-meta-trends.md)
 * [Divine 5 Meta Trends - 7.16 edition](dota2-716-divine5-meta-trends.md)
+* [Immortal Rank Meta Trends - 7.17 edition](dota2-717-immortal-meta-trends.md)
 * [FaceIT Pro League Meta Trends - February 2018](dota2-fpl-meta-trends-feb-2018.md)
 * [SUPERMAJOR Meta Trends](supermajor-meta-trends.md)
 * [Pro Circuit - Season 1 stats](pro-circuit-season1.md)
