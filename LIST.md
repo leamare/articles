@@ -1,3 +1,7 @@
+# Рассказы
+
+* [(2018) Половина человека / Белый фургон](stories/wt/2018-halfhuman.md)
+
 # Переводы
 
 * [STRATZ - Тайминги предметов в Dota 2](translations/dota-2-item-timings-stratz.md)
@@ -16,7 +20,7 @@
 
 ## Рассказы
 
-* [(2012) Это Коля?](archive/stories/2012-kolya.md)
-* [(2015) Тишина](archive/stories/2015-silence.md)
-* [(2015) Вайп Грядёт](archive/stories/2015-wipe-table.md)
 * [(2016) Калибровка](archive/stories/2016-calibration.md)
+* [(2015) Вайп Грядёт](archive/stories/2015-wipe-table.md)
+* [(2015) Тишина](archive/stories/2015-silence.md)
+* [(2012) Это Коля?](archive/stories/2012-kolya.md)
