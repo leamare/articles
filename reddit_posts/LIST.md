@@ -19,3 +19,5 @@
 * [Pro Circuit - Season 1 stats](pro-circuit-season1.md)
 * [Competitive Meta Trends - DOTA Summit 9](meta-dota-summit-9.md)
 * [Competitive Meta Trends - The Kuala Lumpur Major](kl-major-meta-trends.md)
+* [Competitive Meta Trends - PGL The Bucharest Minor 2019](pgl-bucharest-minor-2019-trends.md)
+* [Competitive Meta Trends - The Chongqing Major](chongqing-major-meta-trends.md)
