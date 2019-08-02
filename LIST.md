@@ -7,6 +7,10 @@
 * [STRATZ - Тайминги предметов в Dota 2](translations/dota-2-item-timings-stratz.md)
 * [Оффлейн в 7.07+ (для TheCyberSport)](translations/dota2-offlane-in-707.md)
 
+# Dota
+
+* 
+
 ---
 
 # Архив
@@ -23,4 +27,5 @@
 * [(2016) Калибровка](archive/stories/2016-calibration.md)
 * [(2015) Вайп Грядёт](archive/stories/2015-wipe-table.md)
 * [(2015) Тишина](archive/stories/2015-silence.md)
+* [(2014) Я закрываю глаза](archive/stories/2014-i-close-my-eyes.md)
 * [(2012) Это Коля?](archive/stories/2012-kolya.md)
