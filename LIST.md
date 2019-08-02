@@ -28,5 +28,6 @@
 * [(2015) Вайп Грядёт](archive/stories/2015-wipe-table.md)
 * [(2015) Тишина](archive/stories/2015-silence.md)
 * [(2014) Я закрываю глаза](archive/stories/2014-i-close-my-eyes.md)
+* [(2013) Ярость](archive/stories/2013-anger.md)
 * [(2012) Это Коля?](archive/stories/2012-kolya.md)
 * [(2011) Птицы](archive/stories/2011-birds.md)
