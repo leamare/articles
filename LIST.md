@@ -26,6 +26,7 @@
 
 * [(2016) Калибровка](archive/stories/2016-calibration.md)
 * [(2015) Вайп Грядёт](archive/stories/2015-wipe-table.md)
+* [(2015) Реквием](archive/stories/2015-requiem.md)
 * [(2015) Тишина](archive/stories/2015-silence.md)
 * [(2014) Я закрываю глаза](archive/stories/2014-i-close-my-eyes.md)
 * [(2013) Ярость](archive/stories/2013-anger.md)
