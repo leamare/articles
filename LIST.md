@@ -29,3 +29,4 @@
 * [(2015) Тишина](archive/stories/2015-silence.md)
 * [(2014) Я закрываю глаза](archive/stories/2014-i-close-my-eyes.md)
 * [(2012) Это Коля?](archive/stories/2012-kolya.md)
+* [(2011) Птицы](archive/stories/2011-birds.md)
