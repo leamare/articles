@@ -19,6 +19,7 @@
 
 ## 2018 Ru Only
 
+* [Дорогой, нам нужно поговорить (о патче 7.22)](dota_articles/lets-talk-about-722/ru.md)
 * [The International 2018: Истории этого года, анализ меты и 7.19b](dota_articles/ti8-aftermath/ru.md)
 * [TI8 Group Stage - TI8: Обзор меты группового этапа](dota_articles/ti8-group-stage/ru.md)
 * [TI8 Teams navigator - Путеводитель по командам TI8](dota_articles/pre-ti8/ru.md)
