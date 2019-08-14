@@ -1,5 +1,11 @@
 # DOTA
 
+* TI9 Predictions
+  - [EN](dota_articles/ti9-predictions/en.md)
+  - [RU](dota_articles/ti9-predictions/ru.md)
+* 7.22f Immortal Meta Trends for TI9
+  - [EN](dota_articles/7.22f trends/en.md)
+  - [RU](dota_articles/7.22f trends/ru.md)
 * 7.22e Immortal Meta Trends for TI9
   - [EN](dota_articles/7.22e trends/dota2-722e-immortal-meta-trends.md)
   - [RU](dota_articles/7.22e trends/ru.md)
@@ -13,8 +19,9 @@
 
 ## 2018 Ru Only
 
-* [TI8 Teams navigator - Путеводитель по командам TI8](dota_articles/pre-ti8/ru.md)
+* [The International 2018: Истории этого года, анализ меты и 7.19b](dota_articles/ti8-aftermath/ru.md)
 * [TI8 Group Stage - TI8: Обзор меты группового этапа](dota_articles/ti8-group-stage/ru.md)
+* [TI8 Teams navigator - Путеводитель по командам TI8](dota_articles/pre-ti8/ru.md)
 
 ---
 
