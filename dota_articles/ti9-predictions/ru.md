@@ -1,4 +1,4 @@
-Published: 
+Published: https://vk.com/@spectraldota-i-esche-raz-pro-prognozy-ti9-edition
 
 ---
 

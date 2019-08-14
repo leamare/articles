@@ -1,5 +1,8 @@
 # DOTA
 
+* TI9 Teams Analysis
+  - [EN](dota_articles/pre-ti9-teams-analysis/en.md)
+  - [RU](dota_articles/pre-ti9-teams-analysis/ru.md)
 * TI9 Predictions
   - [EN](dota_articles/ti9-predictions/en.md)
   - [RU](dota_articles/ti9-predictions/ru.md)
