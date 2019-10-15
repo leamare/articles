@@ -3,6 +3,9 @@
 * TI9 Meta Trends
   - [EN](dota_articles/ti9-recap/en.md)
   - [RU](dota_articles/ti9-recap/ru.md)
+* TI9 group stage recap
+  - [EN](dota_articles/ti9-group-stage-recap/en.md)
+  - [RU](dota_articles/ti9-group-stage-recap/ru.md)
 * TI9 Teams Analysis
   - [EN](dota_articles/pre-ti9-teams-analysis/en.md)
   - [RU](dota_articles/pre-ti9-teams-analysis/ru.md)
