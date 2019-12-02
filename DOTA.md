@@ -1,5 +1,7 @@
 # DOTA
 
+* Reddit: DPC Meta Trends - DOTA Summit 11 and MDL Chengdu Major
+  - [EN](dota_articles/dpc3/dpc3_phase1.md)
 * TI9 Meta Trends
   - [EN](dota_articles/ti9-recap/en.md)
   - [RU](dota_articles/ti9-recap/ru.md)
